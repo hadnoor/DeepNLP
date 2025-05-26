@@ -45,16 +45,6 @@ chmod u+x prepare_dataset.sh
 ./prepare_dataset.sh
 ````
 
-### docker env
-ubuntu 16.04 python 3.5.2 with various of ML/DL packages including tensorflow, sklearn, pytorch
-
-`docker pull dsksd/deepstudy:0.2`
-
-````
-pip3 install docker-compose
-cd script
-docker-compose up -d
-````
 
 ### cloud setting
 
@@ -67,6 +57,4 @@ docker-compose up -d
 * <a href="https://github.com/yunjey/pytorch-tutorial">pytorch-tutorial</a>
 * <a href="https://github.com/pytorch/examples/">pytorch-examples</a>
 
-## Author
 
-Sungdong Kim / <a href="https://github.com/DSKSD">@DSKSD</a>
