@@ -2,10 +2,6 @@
 
 Pytorch implementations of various Deep NLP models in <a href="http://web.stanford.edu/class/cs224n/">cs-224n(Stanford Univ: NLP with Deep Learning)</a>
 
-- This is not for Pytorch beginners. If it is your first time to use Pytorch, I recommend these [awesome tutorials](#references).
-- If you're interested in DeepNLP, I strongly recommend you to work with this awesome lecture.
-
-  * <a href="http://web.stanford.edu/class/cs224n/syllabus.html">cs-224n-slides</a>
   * <a href="https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6">cs-224n-videos</a>
 
 This material is not perfect but will help your study and research:) Please feel free to pull requests!!
